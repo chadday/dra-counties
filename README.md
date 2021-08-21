@@ -3,7 +3,7 @@ A csv list of counties that are in the jurisdiction of the federal Delta Regiona
 
 ## Description
 
-This list of 252 counties comes from the [Delta Regional Authority](https://dra.gov/funding-programs-states-economic-development/states-economic-development-assistance-program/distressed-counties-and-parishes/) website.
+This list of 252 counties was compiled from [Delta Regional Authority](https://dra.gov/funding-programs-states-economic-development/states-economic-development-assistance-program/distressed-counties-and-parishes/) website.
 
 Updated: Aug. 20, 2021
 
