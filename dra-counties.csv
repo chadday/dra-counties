@@ -1,0 +1,253 @@
+stcounty,name,name_short,stusab,dra_county,dra_distressed,on_lower_mississippi_river
+01005,Barbour County,Barbour,AL,TRUE,TRUE,FALSE
+01011,Bullock County,Bullock,AL,TRUE,TRUE,FALSE
+01013,Butler County,Butler,AL,TRUE,TRUE,FALSE
+01023,Choctaw County,Choctaw,AL,TRUE,TRUE,FALSE
+01025,Clarke County,Clarke,AL,TRUE,TRUE,FALSE
+01035,Conecuh County,Conecuh,AL,TRUE,TRUE,FALSE
+01047,Dallas County,Dallas,AL,TRUE,TRUE,FALSE
+01053,Escambia County,Escambia,AL,TRUE,TRUE,FALSE
+01063,Greene County,Greene,AL,TRUE,TRUE,FALSE
+01065,Hale County,Hale,AL,TRUE,TRUE,FALSE
+01085,Lowndes County,Lowndes,AL,TRUE,TRUE,FALSE
+01087,Macon County,Macon,AL,TRUE,TRUE,FALSE
+01091,Marengo County,Marengo,AL,TRUE,TRUE,FALSE
+01099,Monroe County,Monroe,AL,TRUE,TRUE,FALSE
+01105,Perry County,Perry,AL,TRUE,TRUE,FALSE
+01107,Pickens County,Pickens,AL,TRUE,TRUE,FALSE
+01113,Russell County,Russell,AL,TRUE,TRUE,FALSE
+01119,Sumter County,Sumter,AL,TRUE,TRUE,FALSE
+01129,Washington County,Washington,AL,TRUE,TRUE,FALSE
+01131,Wilcox County,Wilcox,AL,TRUE,TRUE,FALSE
+05001,Arkansas County,Arkansas,AR,TRUE,FALSE,FALSE
+05003,Ashley County,Ashley,AR,TRUE,TRUE,FALSE
+05005,Baxter County,Baxter,AR,TRUE,TRUE,FALSE
+05011,Bradley County,Bradley,AR,TRUE,TRUE,FALSE
+05013,Calhoun County,Calhoun,AR,TRUE,TRUE,FALSE
+05017,Chicot County,Chicot,AR,TRUE,TRUE,TRUE
+05021,Clay County,Clay,AR,TRUE,TRUE,FALSE
+05025,Cleveland County,Cleveland,AR,TRUE,TRUE,FALSE
+05031,Craighead County,Craighead,AR,TRUE,TRUE,FALSE
+05035,Crittenden County,Crittenden,AR,TRUE,TRUE,TRUE
+05037,Cross County,Cross,AR,TRUE,TRUE,FALSE
+05039,Dallas County,Dallas,AR,TRUE,TRUE,FALSE
+05041,Desha County,Desha,AR,TRUE,TRUE,TRUE
+05043,Drew County,Drew,AR,TRUE,TRUE,FALSE
+05049,Fulton County,Fulton,AR,TRUE,TRUE,FALSE
+05053,Grant County,Grant,AR,TRUE,TRUE,FALSE
+05055,Greene County,Greene,AR,TRUE,TRUE,FALSE
+05063,Independence County,Independence,AR,TRUE,TRUE,FALSE
+05065,Izard County,Izard,AR,TRUE,TRUE,FALSE
+05067,Jackson County,Jackson,AR,TRUE,TRUE,FALSE
+05069,Jefferson County,Jefferson,AR,TRUE,TRUE,FALSE
+05075,Lawrence County,Lawrence,AR,TRUE,TRUE,FALSE
+05077,Lee County,Lee,AR,TRUE,TRUE,TRUE
+05079,Lincoln County,Lincoln,AR,TRUE,TRUE,FALSE
+05085,Lonoke County,Lonoke,AR,TRUE,TRUE,FALSE
+05089,Marion County,Marion,AR,TRUE,TRUE,FALSE
+05093,Mississippi County,Mississippi,AR,TRUE,TRUE,TRUE
+05095,Monroe County,Monroe,AR,TRUE,TRUE,FALSE
+05103,Ouachita County,Ouachita,AR,TRUE,TRUE,FALSE
+05107,Phillips County,Phillips,AR,TRUE,TRUE,TRUE
+05111,Poinsett County,Poinsett,AR,TRUE,TRUE,FALSE
+05117,Prairie County,Prairie,AR,TRUE,TRUE,FALSE
+05119,Pulaski County,Pulaski,AR,TRUE,FALSE,FALSE
+05121,Randolph County,Randolph,AR,TRUE,TRUE,FALSE
+05123,St. Francis County,St. Francis,AR,TRUE,TRUE,FALSE
+05129,Searcy County,Searcy,AR,TRUE,TRUE,FALSE
+05135,Sharp County,Sharp,AR,TRUE,TRUE,FALSE
+05137,Stone County,Stone,AR,TRUE,TRUE,FALSE
+05139,Union County,Union,AR,TRUE,TRUE,FALSE
+05141,Van Buren County,Van Buren,AR,TRUE,TRUE,FALSE
+05145,White County,White,AR,TRUE,TRUE,FALSE
+05147,Woodruff County,Woodruff,AR,TRUE,TRUE,FALSE
+17003,Alexander County,Alexander,IL,TRUE,TRUE,FALSE
+17055,Franklin County,Franklin,IL,TRUE,TRUE,FALSE
+17059,Gallatin County,Gallatin,IL,TRUE,TRUE,FALSE
+17065,Hamilton County,Hamilton,IL,TRUE,TRUE,FALSE
+17069,Hardin County,Hardin,IL,TRUE,TRUE,FALSE
+17077,Jackson County,Jackson,IL,TRUE,TRUE,FALSE
+17087,Johnson County,Johnson,IL,TRUE,TRUE,FALSE
+17127,Massac County,Massac,IL,TRUE,TRUE,FALSE
+17145,Perry County,Perry,IL,TRUE,TRUE,FALSE
+17151,Pope County,Pope,IL,TRUE,TRUE,FALSE
+17153,Pulaski County,Pulaski,IL,TRUE,TRUE,FALSE
+17157,Randolph County,Randolph,IL,TRUE,TRUE,FALSE
+17165,Saline County,Saline,IL,TRUE,TRUE,FALSE
+17181,Union County,Union,IL,TRUE,TRUE,FALSE
+17193,White County,White,IL,TRUE,FALSE,FALSE
+17199,Williamson County,Williamson,IL,TRUE,FALSE,FALSE
+21007,Ballard County,Ballard,KY,TRUE,TRUE,TRUE
+21033,Caldwell County,Caldwell,KY,TRUE,TRUE,FALSE
+21035,Calloway County,Calloway,KY,TRUE,TRUE,FALSE
+21039,Carlisle County,Carlisle,KY,TRUE,TRUE,TRUE
+21047,Christian County,Christian,KY,TRUE,TRUE,FALSE
+21055,Crittenden County,Crittenden,KY,TRUE,TRUE,FALSE
+21075,Fulton County,Fulton,KY,TRUE,TRUE,TRUE
+21083,Graves County,Graves,KY,TRUE,TRUE,FALSE
+21101,Henderson County,Henderson,KY,TRUE,TRUE,FALSE
+21105,Hickman County,Hickman,KY,TRUE,TRUE,TRUE
+21107,Hopkins County,Hopkins,KY,TRUE,TRUE,FALSE
+21139,Livingston County,Livingston,KY,TRUE,TRUE,FALSE
+21143,Lyon County,Lyon,KY,TRUE,TRUE,FALSE
+21145,McCracken County,McCracken,KY,TRUE,FALSE,FALSE
+21149,McLean County,McLean,KY,TRUE,TRUE,FALSE
+21157,Marshall County,Marshall,KY,TRUE,TRUE,FALSE
+21177,Muhlenberg County,Muhlenberg,KY,TRUE,TRUE,FALSE
+21219,Todd County,Todd,KY,TRUE,TRUE,FALSE
+21221,Trigg County,Trigg,KY,TRUE,TRUE,FALSE
+21225,Union County,Union,KY,TRUE,TRUE,FALSE
+21233,Webster County,Webster,KY,TRUE,TRUE,FALSE
+22001,Acadia Parish,Acadia,LA,TRUE,TRUE,FALSE
+22003,Allen Parish,Allen,LA,TRUE,TRUE,FALSE
+22005,Ascension Parish,Ascension,LA,TRUE,FALSE,TRUE
+22007,Assumption Parish,Assumption,LA,TRUE,TRUE,FALSE
+22009,Avoyelles Parish,Avoyelles,LA,TRUE,TRUE,FALSE
+22011,Beauregard Parish,Beauregard,LA,TRUE,TRUE,FALSE
+22013,Bienville Parish,Bienville,LA,TRUE,TRUE,FALSE
+22021,Caldwell Parish,Caldwell,LA,TRUE,TRUE,FALSE
+22023,Cameron Parish,Cameron,LA,TRUE,FALSE,FALSE
+22025,Catahoula Parish,Catahoula,LA,TRUE,TRUE,FALSE
+22027,Claiborne Parish,Claiborne,LA,TRUE,TRUE,FALSE
+22029,Concordia Parish,Concordia,LA,TRUE,TRUE,TRUE
+22031,De Soto Parish,De Soto,LA,TRUE,TRUE,FALSE
+22033,East Baton Rouge Parish,East Baton Rouge,LA,TRUE,FALSE,TRUE
+22035,East Carroll Parish,East Carroll,LA,TRUE,TRUE,TRUE
+22037,East Feliciana Parish,East Feliciana,LA,TRUE,TRUE,TRUE
+22039,Evangeline Parish,Evangeline,LA,TRUE,TRUE,FALSE
+22041,Franklin Parish,Franklin,LA,TRUE,TRUE,FALSE
+22043,Grant Parish,Grant,LA,TRUE,TRUE,FALSE
+22045,Iberia Parish,Iberia,LA,TRUE,TRUE,FALSE
+22047,Iberville Parish,Iberville,LA,TRUE,TRUE,TRUE
+22049,Jackson Parish,Jackson,LA,TRUE,TRUE,FALSE
+22051,Jefferson Parish,Jefferson,LA,TRUE,FALSE,TRUE
+22053,Jefferson Davis Parish,Jefferson Davis,LA,TRUE,TRUE,FALSE
+22057,Lafourche Parish,Lafourche,LA,TRUE,FALSE,FALSE
+22059,LaSalle Parish,LaSalle,LA,TRUE,TRUE,FALSE
+22061,Lincoln Parish,Lincoln,LA,TRUE,TRUE,FALSE
+22063,Livingston Parish,Livingston,LA,TRUE,TRUE,FALSE
+22065,Madison Parish,Madison,LA,TRUE,TRUE,TRUE
+22067,Morehouse Parish,Morehouse,LA,TRUE,TRUE,FALSE
+22069,Natchitoches Parish,Natchitoches,LA,TRUE,TRUE,FALSE
+22071,Orleans Parish,Orleans,LA,TRUE,TRUE,TRUE
+22073,Ouachita Parish,Ouachita,LA,TRUE,TRUE,FALSE
+22075,Plaquemines Parish,Plaquemines,LA,TRUE,FALSE,TRUE
+22077,Pointe Coupee Parish,Pointe Coupee,LA,TRUE,FALSE,TRUE
+22079,Rapides Parish,Rapides,LA,TRUE,FALSE,FALSE
+22081,Red River Parish,Red River,LA,TRUE,TRUE,FALSE
+22083,Richland Parish,Richland,LA,TRUE,TRUE,FALSE
+22087,St. Bernard Parish,St. Bernard,LA,TRUE,TRUE,TRUE
+22089,St. Charles Parish,St. Charles,LA,TRUE,FALSE,TRUE
+22091,St. Helena Parish,St. Helena,LA,TRUE,TRUE,FALSE
+22093,St. James Parish,St. James,LA,TRUE,TRUE,TRUE
+22095,St. John the Baptist Parish,St. John the Baptist,LA,TRUE,TRUE,TRUE
+22097,St. Landry Parish,St. Landry,LA,TRUE,TRUE,FALSE
+22099,St. Martin Parish,St. Martin,LA,TRUE,TRUE,FALSE
+22101,St. Mary Parish,St. Mary,LA,TRUE,TRUE,FALSE
+22105,Tangipahoa Parish,Tangipahoa,LA,TRUE,TRUE,FALSE
+22107,Tensas Parish,Tensas,LA,TRUE,TRUE,TRUE
+22111,Union Parish,Union,LA,TRUE,TRUE,FALSE
+22113,Vermilion Parish,Vermilion,LA,TRUE,TRUE,FALSE
+22117,Washington Parish,Washington,LA,TRUE,TRUE,FALSE
+22119,Webster Parish,Webster,LA,TRUE,TRUE,FALSE
+22121,West Baton Rouge Parish,West Baton Rouge,LA,TRUE,FALSE,TRUE
+22123,West Carroll Parish,West Carroll,LA,TRUE,TRUE,FALSE
+22125,West Feliciana Parish,West Feliciana,LA,TRUE,TRUE,TRUE
+22127,Winn Parish,Winn,LA,TRUE,TRUE,FALSE
+28001,Adams County,Adams,MS,TRUE,TRUE,TRUE
+28005,Amite County,Amite,MS,TRUE,TRUE,FALSE
+28007,Attala County,Attala,MS,TRUE,TRUE,FALSE
+28009,Benton County,Benton,MS,TRUE,TRUE,FALSE
+28011,Bolivar County,Bolivar,MS,TRUE,TRUE,TRUE
+28015,Carroll County,Carroll,MS,TRUE,TRUE,FALSE
+28021,Claiborne County,Claiborne,MS,TRUE,TRUE,TRUE
+28027,Coahoma County,Coahoma,MS,TRUE,TRUE,TRUE
+28029,Copiah County,Copiah,MS,TRUE,TRUE,FALSE
+28031,Covington County,Covington,MS,TRUE,TRUE,FALSE
+28033,DeSoto County,DeSoto,MS,TRUE,TRUE,TRUE
+28037,Franklin County,Franklin,MS,TRUE,TRUE,FALSE
+28043,Grenada County,Grenada,MS,TRUE,TRUE,FALSE
+28049,Hinds County,Hinds,MS,TRUE,TRUE,FALSE
+28051,Holmes County,Holmes,MS,TRUE,TRUE,FALSE
+28053,Humphreys County,Humphreys,MS,TRUE,TRUE,FALSE
+28055,Issaquena County,Issaquena,MS,TRUE,TRUE,TRUE
+28061,Jasper County,Jasper,MS,TRUE,TRUE,FALSE
+28063,Jefferson County,Jefferson,MS,TRUE,TRUE,TRUE
+28065,Jefferson Davis County,Jefferson Davis,MS,TRUE,TRUE,FALSE
+28071,Lafayette County,Lafayette,MS,TRUE,TRUE,FALSE
+28077,Lawrence County,Lawrence,MS,TRUE,TRUE,FALSE
+28083,Leflore County,Leflore,MS,TRUE,TRUE,FALSE
+28085,Lincoln County,Lincoln,MS,TRUE,TRUE,FALSE
+28089,Madison County,Madison,MS,TRUE,FALSE,FALSE
+28091,Marion County,Marion,MS,TRUE,TRUE,FALSE
+28093,Marshall County,Marshall,MS,TRUE,TRUE,FALSE
+28097,Montgomery County,Montgomery,MS,TRUE,TRUE,FALSE
+28107,Panola County,Panola,MS,TRUE,TRUE,FALSE
+28113,Pike County,Pike,MS,TRUE,TRUE,FALSE
+28119,Quitman County,Quitman,MS,TRUE,TRUE,FALSE
+28121,Rankin County,Rankin,MS,TRUE,FALSE,FALSE
+28125,Sharkey County,Sharkey,MS,TRUE,TRUE,FALSE
+28127,Simpson County,Simpson,MS,TRUE,TRUE,FALSE
+28129,Smith County,Smith,MS,TRUE,TRUE,FALSE
+28133,Sunflower County,Sunflower,MS,TRUE,TRUE,FALSE
+28135,Tallahatchie County,Tallahatchie,MS,TRUE,TRUE,FALSE
+28137,Tate County,Tate,MS,TRUE,TRUE,FALSE
+28139,Tippah County,Tippah,MS,TRUE,TRUE,FALSE
+28143,Tunica County,Tunica,MS,TRUE,TRUE,TRUE
+28145,Union County,Union,MS,TRUE,TRUE,FALSE
+28147,Walthall County,Walthall,MS,TRUE,TRUE,FALSE
+28149,Warren County,Warren,MS,TRUE,TRUE,TRUE
+28151,Washington County,Washington,MS,TRUE,TRUE,TRUE
+28157,Wilkinson County,Wilkinson,MS,TRUE,TRUE,TRUE
+28161,Yalobusha County,Yalobusha,MS,TRUE,TRUE,FALSE
+28163,Yazoo County,Yazoo,MS,TRUE,TRUE,FALSE
+29017,Bollinger County,Bollinger,MO,TRUE,TRUE,FALSE
+29023,Butler County,Butler,MO,TRUE,TRUE,FALSE
+29031,Cape Girardeau County,Cape Girardeau,MO,TRUE,FALSE,FALSE
+29035,Carter County,Carter,MO,TRUE,TRUE,FALSE
+29055,Crawford County,Crawford,MO,TRUE,TRUE,FALSE
+29065,Dent County,Dent,MO,TRUE,TRUE,FALSE
+29067,Douglas County,Douglas,MO,TRUE,TRUE,FALSE
+29069,Dunklin County,Dunklin,MO,TRUE,TRUE,FALSE
+29091,Howell County,Howell,MO,TRUE,TRUE,FALSE
+29093,Iron County,Iron,MO,TRUE,TRUE,FALSE
+29123,Madison County,Madison,MO,TRUE,TRUE,FALSE
+29133,Mississippi County,Mississippi,MO,TRUE,TRUE,TRUE
+29143,New Madrid County,New Madrid,MO,TRUE,TRUE,TRUE
+29149,Oregon County,Oregon,MO,TRUE,TRUE,FALSE
+29153,Ozark County,Ozark,MO,TRUE,TRUE,FALSE
+29155,Pemiscot County,Pemiscot,MO,TRUE,TRUE,TRUE
+29157,Perry County,Perry,MO,TRUE,TRUE,FALSE
+29161,Phelps County,Phelps,MO,TRUE,TRUE,FALSE
+29179,Reynolds County,Reynolds,MO,TRUE,TRUE,FALSE
+29181,Ripley County,Ripley,MO,TRUE,TRUE,FALSE
+29186,Ste. Genevieve County,Ste. Genevieve,MO,TRUE,TRUE,FALSE
+29187,St. Francois County,St. Francois,MO,TRUE,TRUE,FALSE
+29201,Scott County,Scott,MO,TRUE,TRUE,FALSE
+29203,Shannon County,Shannon,MO,TRUE,TRUE,FALSE
+29207,Stoddard County,Stoddard,MO,TRUE,TRUE,FALSE
+29215,Texas County,Texas,MO,TRUE,TRUE,FALSE
+29221,Washington County,Washington,MO,TRUE,TRUE,FALSE
+29223,Wayne County,Wayne,MO,TRUE,TRUE,FALSE
+29229,Wright County,Wright,MO,TRUE,TRUE,FALSE
+47005,Benton County,Benton,TN,TRUE,TRUE,FALSE
+47017,Carroll County,Carroll,TN,TRUE,TRUE,FALSE
+47023,Chester County,Chester,TN,TRUE,TRUE,FALSE
+47033,Crockett County,Crockett,TN,TRUE,TRUE,FALSE
+47039,Decatur County,Decatur,TN,TRUE,TRUE,FALSE
+47045,Dyer County,Dyer,TN,TRUE,TRUE,TRUE
+47047,Fayette County,Fayette,TN,TRUE,FALSE,FALSE
+47053,Gibson County,Gibson,TN,TRUE,TRUE,FALSE
+47069,Hardeman County,Hardeman,TN,TRUE,TRUE,FALSE
+47071,Hardin County,Hardin,TN,TRUE,TRUE,FALSE
+47075,Haywood County,Haywood,TN,TRUE,TRUE,FALSE
+47077,Henderson County,Henderson,TN,TRUE,TRUE,FALSE
+47079,Henry County,Henry,TN,TRUE,TRUE,FALSE
+47095,Lake County,Lake,TN,TRUE,TRUE,TRUE
+47097,Lauderdale County,Lauderdale,TN,TRUE,TRUE,TRUE
+47109,McNairy County,McNairy,TN,TRUE,TRUE,FALSE
+47113,Madison County,Madison,TN,TRUE,TRUE,FALSE
+47131,Obion County,Obion,TN,TRUE,TRUE,FALSE
+47157,Shelby County,Shelby,TN,TRUE,FALSE,TRUE
+47167,Tipton County,Tipton,TN,TRUE,TRUE,TRUE
+47183,Weakley County,Weakley,TN,TRUE,TRUE,FALSE
